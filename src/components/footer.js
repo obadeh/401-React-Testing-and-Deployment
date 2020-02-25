@@ -1,9 +1,9 @@
 import React from 'react';
 
 const Footer = () => {
-    return (
-      <footer>best footer</footer>
-    )
-  }
+  return (
+    <footer>best footer</footer>
+  );
+};
 
-  export default Footer;
+export default Footer;
